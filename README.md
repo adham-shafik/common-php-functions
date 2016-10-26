@@ -1,2 +1,2 @@
 # common-php-functions
-A collection of common PHP functions i frequently use
+I made this commit to add general functions as a part of my collection
